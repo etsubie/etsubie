@@ -1,59 +1,17 @@
-# 👩‍💻 Hi, I'm Etsub 👋
+## 👩‍💻 About Me
 
-## 🚀 Rising Talent | Full Stack Developer
+🌟 Rising Talent on Upwork | Full Stack Developer with 2+ years of professional experience building secure, scalable, and high-performance web applications.
 
-I am a Rising Talent on Upwork with 2+ years of professional experience building secure, scalable, and high-performance web applications.
+💻 I specialize in both front-end and back-end development using JavaScript, React, Node.js, and Laravel. I develop complete end-to-end solutions — from interactive and responsive user interfaces to robust backend systems and well-structured APIs.
 
----
+⚙️ Experienced in building RESTful APIs, authentication systems, role-based access control, and database-driven applications using MySQL and MongoDB. I ensure performance optimization, security best practices, and efficient data management.
 
-## 💻 Tech Stack
+🏗️ I focus on writing clean, maintainable, and scalable code by following modern development standards and architectural best practices.
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
+🤝 I collaborate effectively with clients and teams, prioritizing clear communication, reliability, and on-time delivery of high-quality solutions.
 
-### Backend
-- Node.js
-- Express.js
-- Laravel
+🚀 Passionate about continuous growth, learning emerging technologies, and delivering solutions that create measurable business impact.
 
-### Databases
-- MySQL
-- MongoDB
-
----
-
-## 🛠 What I Do
-
-- Build full-stack web applications
-- Develop RESTful APIs
-- Implement authentication & role-based access control
-- Design scalable backend architectures
-- Optimize performance and application security
-- Deploy and maintain production-ready systems
-
----
-
-## 🤝 Work Style
-
-- Clear and professional communication
-- Clean, maintainable, and efficient code
-- On-time delivery
-- Detail-oriented development process
-
----
-
-## 📈 Currently
-
-- Improving backend architecture skills
-- Exploring advanced Laravel features
-- Building scalable MERN & Laravel applications
-
----
----
 
 ⭐ Always learning. Always building. Always improving.
 
