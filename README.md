@@ -1,19 +1,62 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Etsub 👋
 
-<!--
-**etsubie/etsubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Rising Talent | Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Rising Talent on Upwork with 2+ years of professional experience building secure, scalable, and high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- Laravel
+
+### Databases
+- MySQL
+- MongoDB
+
+---
+
+## 🛠 What I Do
+
+- Build full-stack web applications
+- Develop RESTful APIs
+- Implement authentication & role-based access control
+- Design scalable backend architectures
+- Optimize performance and application security
+- Deploy and maintain production-ready systems
+
+---
+
+## 🤝 Work Style
+
+- Clear and professional communication
+- Clean, maintainable, and efficient code
+- On-time delivery
+- Detail-oriented development process
+
+---
+
+## 📈 Currently
+
+- Improving backend architecture skills
+- Exploring advanced Laravel features
+- Building scalable MERN & Laravel applications
+
+---
+---
+
+⭐ Always learning. Always building. Always improving.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/etsubie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:etsubie2124@gmail.com) 
